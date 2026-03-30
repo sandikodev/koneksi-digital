@@ -1,1 +1,45 @@
-# koneksi-digital
+# 🚀 Kurikulum 3 Pilar: Koneksi Digital x ASIB
+
+Selamat datang di repositori penyusunan kurikulum **Naik Kelas**. Dokumen ini dirancang sebagai panduan utama bagi tim pengembang konten, mentor, dan pendamping program.
+
+## 📖 Tentang Repositori Ini
+Repositori ini berisi draf materi pembelajaran yang akan diimplementasikan ke dalam platform [naikkelas.id](https://naikkelas.id). Kami menggunakan format **Markdown (.md)** agar dokumen ini lebih "cerdas" dan mudah diolah oleh teknologi AI (seperti Antigravity, Claude, atau Gemini), sehingga proses revisi dan penyusunan materi menjadi jauh lebih cepat dan akurat dibandingkan menggunakan Google Docs konvensional.
+
+---
+
+## 🗺️ Peta Dokumen (Daftar Isi)
+
+Silakan klik link di bawah ini untuk membaca dokumen terkait:
+
+1.  **[Master Plan Program](00_Master_Plan_Kursus_3_Pilar.md)**  
+    *Logika besar program, roadmap 3 bulan, dan strategi utama inkubasi.*
+2.  **[Modul Pondasi (Umum)](01_Modul_Pondasi_Digital_Marketing.md)**  
+    *Materi wajib untuk semua peserta: Mindset, AI Tools, Design (Canva/Capcut).*
+3.  **[Spesialisasi: Pilar Afiliator](02_Syllabus_Affiliator.md)**  
+    *Kurikulum teknis untuk monetisasi melalui link produk.*
+4.  **[Spesialisasi: Pilar Konten Kreator](03_Syllabus_Konten_Kreator.md)**  
+    *Kurikulum teknis untuk membangun personal branding dan aset kreatif.*
+5.  **[Spesialisasi: Pilar Marketplace](04_Syllabus_Marketplace_Seller.md)**  
+    *Kurikulum teknis untuk Seller, Dropshipper, dan manajemen toko.*
+6.  **[Panduan Pendamping & Mentor](05_Panduan_Operasional_Mentor_ASIB.md)**  
+    *SOP operasional untuk mentor lapangan dalam mengawal progres peserta.*
+
+---
+
+## 💡 Mengapa Menggunakan GitHub & Markdown?
+Bagi Tim yang belum terbiasa, berikut adalah beberapa alasan mengapa kita menggunakan cara ini:
+
+*   **AI-Native**: AI Agent yang kami gunakan (seperti Antigravity) dapat membaca dokumen ini secara langsung dan memahami konteks secara menyeluruh tanpa perlu bolak-balik Copy-Paste.
+*   **Bekerja Lebih Ringan**: Tidak perlu membuka banyak tab browser yang berat. Proses pengeditan dilakukan langsung di lingkungan kerja teknis sehingga lebih efisien.
+*   **Version Control**: Kita bisa melihat riwayat perubahan dokumen dari waktu ke waktu dengan sangat detail.
+
+---
+
+## 🛠️ Cara Membaca Dokumen
+1.  Pilih link dokumen di atas.
+2.  GitHub akan secara otomatis menampilkan teks dalam format yang rapi dan mudah dibaca (seperti artikel).
+3.  Jika ingin kembali ke halaman utama, klik nama repositori **"koneksi-digital"** di pojok kiri atas.
+
+---
+**Tim Kurikulum – Koneksi Digital x ASIB**  
+*Last updated: 2026-03-30*

@@ -43,6 +43,16 @@ Repositori ini berada dalam **Fase 1: Inisiasi & Drafting**. Dokumen ini diranca
 
 ---
 
+## 🤝 Cara Tim Berkontribusi
+Tim Kurikulum **TIDAK WAJIB** menggunakan GitHub atau Markdown untuk berkontribusi. Kami mendukung fleksibilitas penuh:
+1.  **Gunakan Alat Favorit Anda**: Tim silakan menulis materi menggunakan Google Docs, Microsoft 365, atau dokumen apa pun.
+2.  **Bagikan Link/Berkas**: Cukup kirimkan link dokumen tersebut kepada **@sandikodev**.
+3.  **Proses Kurasi AI**: Sebagai Team Lead, sandikodev akan menggunakan AI Agent khusus yang mampu membaca dokumen dari berbagai sumber (Google/Office) untuk mengurasi, melakukan *brainstorming*, dan menyelaraskan materi tersebut ke dalam repositori utama ini secara otomatis.
+
+Jadi, fokuslah pada isi konten dan keahlian Anda, biar sistem dan AI kami yang menangani penyelarasan teknisnya!
+
+---
+
 ## ⚙️ Integrasi Platform (naikkelas.id)
 Seiring dengan penyusunan kurikulum ini, inisiator (sandikodev) juga bertindak sebagai pengembang platform **naikkelas.id**. Segala kebutuhan fitur yang dirancang dalam kurikulum ini akan dibuatkan sistemnya secara detail dan *seamless* (seperti sistem penugasan otomatis, tracking progres, dan validasi link) untuk memastikan pengalaman belajar yang terbaik.
 

@@ -34,9 +34,9 @@ Program ini membagi peserta ke dalam 3 jalur spesialisasi setelah melewati masa 
 
 ### Mekanisme Pemilihan Pilar (Titik Percabangan & Fleksibilitas)
 Untuk mengakomodasi tingkat pengalaman yang berbeda-beda, platform menggunakan pendekatan pemilihan spesialisasi yang fleksibel:
-*   **Masa Eksplorasi Terbuka (Preview)**: Setelah Modul Pondasi (Modul 10), materi awal dari setiap spesialisasi (Modul 20 untuk Kreator, 30 untuk Afiliator, 40 untuk Seller) disediakan secara terbuka. Peserta awam bisa mengeksplorasi atau mencicipinya sebelum mengambil keputusan.
-*   **Akses Pemilihan Langsung (Skip to Choose)**: Bagi peserta yang sudah mantap (contoh: sudah punya toko online sendiri), mereka **diizinkan untuk langsung memilih** spesialisasi *(skip preview)* sejak awal.
-*   **Penguncian Peminatan (Lock-in)**: Penguncian jalur (*learning path*) dilakukan saat peserta secara sadar mengisi konfirmasi komitmen (via klik tombol "Pilih Spesialisasi" atau *Assessment Minat* tambahan). Setelah dikunci, sistem `naikkelas.id` akan hanya menampilkan materi tingkat lanjut (Eksekusi & Scaling) yang relevan dengan pilar pilihannya.
+*   **Memilih Nanti (Masa Eksplorasi)**: Peserta diizinkan untuk melihat-lihat *preview* materi awal dari setiap spesialisasi (Contoh: Modul 20, 30, dan 40 dibiarkan terbuka). Setelah mengeksplorasi materi tersebut dan merasa cocok, mereka dapat mengambil keputusan.
+*   **Memilih Sejak Awal (Direct Track)**: Bagi peserta yang sudah mantap dengan tujuannya (contoh: ingin menjadi Kreator), mereka **diizinkan untuk memilih spesialisasi sejak awal** dan langsung diarahkan ke jalur materi spesifik. *Catatan*: Memilih sejak awal BUKAN berarti merebut hak akses *course*-nya, namun sekadar menyaring materi sesuai jalur minatnya; semua materi dasar (seperti Modul 10) beserta seluruh rangkaian modul pilar yang dipilih tetap wajib dituntaskan secara menyeluruh.
+*   **Penguncian Jalur (Lock-in)**: Pemilihan pilar disahkan saat peserta mengonfirmasi peminatan (misal melalui *Assessment* di platform). Setelah dikunci, sistem akan menyusun peta pembelajaran yang relevan beserta modul tingkat lanjut (Growth & Scaling) dari pilar andalannya.
 
 ---
 

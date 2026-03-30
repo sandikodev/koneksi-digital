@@ -85,4 +85,11 @@ Mengingat pentingnya pendampingan personal bagi peserta, model pendampingan dila
 ---
 
 **Last Updated**: 2026-03-30  
-**Penanggung Jawab**: Koneksi Digital  
+**Status**: Fase 1 - Inisiasi & Drafting (sandikodev)
+
+---
+
+## ⚙️ SINERGI KURIKULUM & ENGINEERING PLATFORM
+Rancangan kurikulum ini dikembangkan secara paralel dengan pengembangan teknis platform **naikkelas.id** oleh inisiator (@sandikodev). Segala kebutuhan *learning flow* (seperti penugasan berbasis link, Knowledge Check otomatis, dan dashboard pendamping) akan disediakan fiturnya secara *seamless* di level sistem untuk mendukung kurikulum ini secara maksimal.
+
+---

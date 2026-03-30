@@ -35,6 +35,19 @@ Bagi Tim yang belum terbiasa, berikut adalah beberapa alasan mengapa kita menggu
 
 ---
 
+## 🛠️ Status Proyek & Kontribusi
+Repositori ini berada dalam **Fase 1: Inisiasi & Drafting**. Dokumen ini dirancang pertama kali oleh **@sandikodev** (Team Lead & Platform Initiator) sebagai kerangka dasar yang nantinya akan:
+*   **Dielaborasi**: Dikembangkan lebih mendalam oleh masing-masing spesialis pilar (Wakhid & Fathan).
+*   **Dikurasi**: Diselaraskan dengan kebutuhan Yayasan ASIB dan audiens lapangan.
+*   **Disempurnakan**: Mengalami revisi berkelanjutan sesuai konteks teknis terbaru.
+
+---
+
+## ⚙️ Integrasi Platform (naikkelas.id)
+Seiring dengan penyusunan kurikulum ini, inisiator (sandikodev) juga bertindak sebagai pengembang platform **naikkelas.id**. Segala kebutuhan fitur yang dirancang dalam kurikulum ini akan dibuatkan sistemnya secara detail dan *seamless* (seperti sistem penugasan otomatis, tracking progres, dan validasi link) untuk memastikan pengalaman belajar yang terbaik.
+
+---
+
 ## 🛠️ Cara Membaca Dokumen
 1.  Pilih link dokumen di atas.
 2.  GitHub akan secara otomatis menampilkan teks dalam format yang rapi dan mudah dibaca (seperti artikel).

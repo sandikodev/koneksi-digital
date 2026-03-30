@@ -13,15 +13,17 @@ Silakan klik link di bawah ini untuk membaca dokumen terkait:
 
 1.  **[Master Plan Program](00_Master_Plan_Kursus_3_Pilar.md)**  
     *Logika besar program, roadmap 3 bulan, dan strategi utama inkubasi.*
-2.  **[Modul Pondasi (Umum)](01_Modul_Pondasi_Digital_Marketing.md)**  
+2.  **[Proposal Eksekutif Strategis](06_Proposal_Eksekutif_Program_3_Pilar.md)**  
+    *Gambaran kelayakan program (Feasibility) untuk Petinggi/Pemangku Kepentingan.*
+3.  **[Modul Pondasi (Umum)](01_Modul_Pondasi_Digital_Marketing.md)**  
     *Materi wajib untuk semua peserta: Mindset, AI Tools, Design (Canva/Capcut).*
-3.  **[Spesialisasi: Pilar Afiliator](02_Syllabus_Affiliator.md)**  
+4.  **[Spesialisasi: Pilar Afiliator](02_Syllabus_Affiliator.md)**  
     *Kurikulum teknis untuk monetisasi melalui link produk.*
-4.  **[Spesialisasi: Pilar Konten Kreator](03_Syllabus_Konten_Kreator.md)**  
+5.  **[Spesialisasi: Pilar Konten Kreator](03_Syllabus_Konten_Kreator.md)**  
     *Kurikulum teknis untuk membangun personal branding dan aset kreatif.*
-5.  **[Spesialisasi: Pilar Marketplace](04_Syllabus_Marketplace_Seller.md)**  
+6.  **[Spesialisasi: Pilar Marketplace](04_Syllabus_Marketplace_Seller.md)**  
     *Kurikulum teknis untuk Seller, Dropshipper, dan manajemen toko.*
-6.  **[Panduan Pendamping & Mentor](05_Panduan_Operasional_Mentor_ASIB.md)**  
+7.  **[Panduan Pendamping & Mentor](05_Panduan_Operasional_Mentor_ASIB.md)**  
     *SOP operasional untuk mentor lapangan dalam mengawal progres peserta.*
 
 ---

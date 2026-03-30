@@ -44,6 +44,10 @@ Dilakukan 1-2 kali seminggu secara berkumpul atau kunjungan rumah (*Visiting*).
 | **Stagnan** | 1-2 Minggu | Jadwalkan kunjungan rumah (*Home Visit*). |
 | **Sangat Berisiko** | 3 Minggu | Evaluasi alasan dropout (Kendala alat/motivasi). |
 
+### 🔍 D. Mid-Term Review (Evaluasi Minggu Ke-6)
+Pada pertengahan masa inkubasi (Minggu ke-6), mentor diwajibkan melakukan *One-on-One Intervention* atau asesmen ulang bagi peserta yang jauh tertinggal. 
+Jika peserta tidak mengeksekusi konten apa pun pada *Pilar* aslinya, mentor memiliki hak untuk menawarkannya melakukan **"Pivot Pilar"** (Misal: dari Kreator yang sulit bicara di depan kamera, dipindahkan menjadi Afiliator tanpa wajah/ *Faceless*). Ini bertindak sebagai keranjang pengaman dari risiko putus-asa di tengah jalan.
+
 ---
 
 ## 🧼 4. ETIKA & PENDEKATAN (MENGEMONG)

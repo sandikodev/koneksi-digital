@@ -31,7 +31,7 @@
 *   **Pelajaran 3.1**: Dasar **Canva** (Edit foto produk & thumbnail sederhana).
 *   **Pelajaran 3.2**: Dasar **Capcut** (Potong video, tambah musik, dan subtitle otomatis).
 *   **Pelajaran 3.3**: Praktik Copywriting di atas Visual (Penempatan teks yang enak dibaca).
-*   **Tugas (KC)**: "Upload 1 foto produk hasil edit Canva atau video 15 detik hasil edit Capcut." (Upload File di Website).
+*   **Tugas (KC)**: "Edit 1 foto/video produk dengan Canva/Capcut, unggah file tersebut ke Google Drive pribadi Anda dengan izin *'Anyone with the link'* dan laporkan link Drive-nya di sini!"
 
 ---
 
@@ -41,7 +41,8 @@
 *   **Pelajaran 4.1**: Mencatat Progres di **Google Docs**.
 *   **Pelajaran 4.2**: Rekap Link & Stock Opname Sederhana di **Google Sheets**.
 *   **Pelajaran 4.3**: Budaya Backup (Simpan file di Drive agar tidak hilang).
-*   **Tugas (KC)**: "Kirimkan link Google Doc berisi ringkasan rencana aksi mingguan Anda." (Input Link di Website).
+*   **Pelajaran 4.4**: Tata Cara Pengumpulan Tugas (Standardisasi Submission `naikkelas.id` menggunakan link Cloud/Drive, bukan upload file langsung untuk hemat *storage*).
+*   **Tugas (KC)**: "Buat 1 folder terbuka di Google Drive bernama 'Drafting Naik Kelas', dan kirimkan link folder tersebut sebagai jawaban penugasan ini."
 
 ---
 

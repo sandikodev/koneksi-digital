@@ -40,6 +40,12 @@
     *   [ ] "Buat draft PDF Rate Card atau Media Kit sederhana Anda (Gunakan template Canva)."
     *   [ ] "Screenshot DM negosiasi/pitching Anda kepada 1 buah brand lokal/UMKM."
 
+### **Fase Tambahan: Mitigasi Risiko & Troubleshooting**
+*   **Materi Sisipan**: Menghadapi jalan buntu (*Burnout*) dan hambatan teknis.
+*   **Kasus 1**: *Shadowban* (Video stagnan di 0 view). Penyebab dan cara pemulihan (istirahat posting & interaksi organik).
+*   **Kasus 2**: Terkena *Community Guidelines Strike* (Cara menghapus konten bermasalah dan mengajukan banding).
+*   **Kasus 3**: Habis ide (Creative Block) - Menggunakan teknik *Remix/Stitch* konten lama atau tren viral.
+
 ---
 
 ## 🌟 INDIKATOR KEBERHASILAN

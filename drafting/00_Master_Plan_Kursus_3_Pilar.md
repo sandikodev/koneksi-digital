@@ -86,6 +86,11 @@ Selain KPI umum di atas, setiap pilar memiliki syarat kelulusan/Naik Kelas (*) m
 *   **Afiliator**: Membuktikan pecah telur komisi pertama (*First Blood Commission*) yang terlacak pada dashboard *Affiliate Center* (Shopee/TikTok).
 *   **Marketplace Seller**: Berhasil melayani minimal 1-3 pesanan pertama secara mandiri hingga selesai, dengan persentase *Zero Cancellation Rate* pada orderan awal.
 
+### Gamifikasi Dashboard (XP & Lencana Prestasi)
+Untuk memompa adrenalin dan retensi peserta, `naikkelas.id` menerapkan sistem poin kompetisi sehat di halaman profil publik:
+1.  **Poin XP (Experience Point)**: Setiap satu sub-modul materi (*Knowledge Check*) yang diapprove oleh mentor, bernilai otomatis **+50 XP** dan tambahan ekstra +10 XP jika mengomentari tugas peserta lain.
+2.  **Lencana (Badge)**: Pencapaian KPI spesifik akan memicu emblem khusus ("Pecah Telur Pertama", "Sultan Konten", "Master Seller") yang memperkuat wibawa akun digital mereka kelak jika dilirik mitra/klien.
+
 ---
 
 ## 6. 🤝 MODEL PENDAMPINGAN (HYBRID)

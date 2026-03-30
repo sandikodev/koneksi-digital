@@ -40,6 +40,12 @@
     *   [ ] "Lampirkan screenshot/foto dokumen NIB yang sudah terbit dari OSS."
     *   [ ] "Buat laporan laba rugi sederhana (1 minggu terakhir) di Google Spreadsheet dan lampirkan link-nya."
 
+### **Fase Tambahan: Mitigasi Risiko & Troubleshooting**
+*   **Materi Sisipan**: Menghadapi dinamika berjualan dan penipuan digital.
+*   **Kasus 1**: Paket "Return to Sender / Retur" (Terutama pesanan sistem COD - Cash on Delivery). Cara lapor kompensasi ke ekspedisi.
+*   **Kasus 2**: Review/Rating Bintang 1 (Cara membalas *review* dengan profesional dan memulihkan reputasi toko).
+*   **Kasus 3**: Perang Harga Ekstrem (Cara pindah dari *Red Ocean* ke *Blue Ocean* dengan membuat paket *Bundling*).
+
 ---
 
 ## 📈 KRITERIA KELULUSAN

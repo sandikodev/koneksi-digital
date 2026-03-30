@@ -42,6 +42,12 @@
     *   [ ] "Lampirkan link grup/komunitas WhatsApp atau Telegram yang telah Anda buat."
     *   [ ] "Screenshot 1 pesan promosi di dalam grup Anda."
 
+### **Fase Tambahan: Mitigasi Risiko & Troubleshooting**
+*   **Materi Sisipan**: Solusi saat performa menurun atau kendala teknis.
+*   **Kasus 1**: Link Affiliate dilaporkan tidak valid (Error 404).
+*   **Kasus 2**: "Keranjang Kuning" TikTok Shop menghilang karena pelanggaran ringan (Cara mengajukan banding/appeal).
+*   **Kasus 3**: Trafik tinggi tapi nol penjualan (Evaluasi *Landing Page* atau harga produk).
+
 ---
 
 ## 📈 TARGET KOMITMEN (POST-INCOBATION)

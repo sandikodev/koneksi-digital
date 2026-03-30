@@ -11,20 +11,28 @@ Repositori ini berisi draf materi pembelajaran yang akan diimplementasikan ke da
 
 Silakan klik link di bawah ini untuk membaca dokumen terkait:
 
-1.  **[Master Plan Program](00_Master_Plan_Kursus_3_Pilar.md)**  
+### 📄 Dokumen Perencanaan (Drafting)
+1.  **[Master Plan Program](drafting/00_Master_Plan_Kursus_3_Pilar.md)**  
     *Logika besar program, roadmap 3 bulan, dan strategi utama inkubasi.*
-2.  **[Proposal Eksekutif Strategis](06_Proposal_Eksekutif_Program_3_Pilar.md)**  
+2.  **[Proposal Eksekutif Strategis](drafting/06_Proposal_Eksekutif_Program_3_Pilar.md)**  
     *Gambaran kelayakan program (Feasibility) untuk Petinggi/Pemangku Kepentingan.*
-3.  **[Modul Pondasi (Umum)](01_Modul_Pondasi_Digital_Marketing.md)**  
+3.  **[Draf Modul Pondasi (Umum)](drafting/01_Modul_Pondasi_Digital_Marketing.md)**  
     *Materi wajib untuk semua peserta: Mindset, AI Tools, Design (Canva/Capcut).*
-4.  **[Spesialisasi: Pilar Afiliator](02_Syllabus_Affiliator.md)**  
+4.  **[Draf Spesialisasi: Pilar Afiliator](drafting/02_Syllabus_Affiliator.md)**  
     *Kurikulum teknis untuk monetisasi melalui link produk.*
-5.  **[Spesialisasi: Pilar Konten Kreator](03_Syllabus_Konten_Kreator.md)**  
+5.  **[Draf Spesialisasi: Pilar Konten Kreator](drafting/03_Syllabus_Konten_Kreator.md)**  
     *Kurikulum teknis untuk membangun personal branding dan aset kreatif.*
-6.  **[Spesialisasi: Pilar Marketplace](04_Syllabus_Marketplace_Seller.md)**  
+6.  **[Draf Spesialisasi: Pilar Marketplace](drafting/04_Syllabus_Marketplace_Seller.md)**  
     *Kurikulum teknis untuk Seller, Dropshipper, dan manajemen toko.*
-7.  **[Panduan Pendamping & Mentor](05_Panduan_Operasional_Mentor_ASIB.md)**  
+7.  **[Panduan Pendamping & Mentor](drafting/05_Panduan_Operasional_Mentor_ASIB.md)**  
     *SOP operasional untuk mentor lapangan dalam mengawal progres peserta.*
+
+### 📚 Materi Detail (Siap Deploy)
+Kurikulum yang sudah matang dan dapat langsung dikirim ke platform menggunakan skrip *Auto-Deploy*:
+1.  **[10. Modul Pondasi](curriculum/10_Modul_Pondasi.md)**
+2.  **[20. Pilar Konten Kreator](curriculum/20_Modul_Konten_Kreator.md)**
+3.  **[30. Pilar Afiliator](curriculum/30_Modul_Affiliator.md)**
+4.  **[40. Pilar Marketplace Seller](curriculum/40_Modul_Marketplace_Seller.md)**
 
 ---
 

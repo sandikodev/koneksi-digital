@@ -27,8 +27,8 @@ Silakan klik link di bawah ini untuk membaca dokumen terkait:
 7.  **[Panduan Pendamping & Mentor](drafting/05_Panduan_Operasional_Mentor_ASIB.md)**  
     *SOP operasional untuk mentor lapangan dalam mengawal progres peserta.*
 
-### 📚 Materi Detail (Siap Deploy)
-Kurikulum yang sudah matang dan dapat langsung dikirim ke platform menggunakan skrip *Auto-Deploy*:
+### 📚 Contoh Struktur Materi (Fase Inisiasi & Uji Coba)
+Daftar berikut ini adalah *placeholder* (contoh kerangka kerja) untuk mensimulasikan bagaimana struktur kurikulum nantinya disusun agar dapat dikenali oleh sistem *Auto-Deploy*. Saat ini pengerjaan masih dalam tahap penyiapan ruang kerja (workspace) dan **bukan materi final**:
 1.  **[10. Modul Pondasi](curriculum/10_Modul_Pondasi.md)**
 2.  **[20. Pilar Konten Kreator](curriculum/20_Modul_Konten_Kreator.md)**
 3.  **[30. Pilar Afiliator](curriculum/30_Modul_Affiliator.md)**

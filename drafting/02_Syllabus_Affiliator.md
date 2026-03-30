@@ -34,6 +34,14 @@
     *   [ ] "Tetapkan target komitmen Anda (1 minggu ke depan, 2 minggu, hingga 1 bulan)."
     *   [ ] "Screenshot bukti klik atau komisi pertama Anda (Jika ada)."
 
+### **Fase 4: Growth & Scaling (Ekspansi Kolam Audiens)**
+*   **Materi 4.1: Strategi Kolam Audiens (Tribe Building).**
+*   **Materi 4.2: Konversi via Grup WA / Telegram.**
+*   **Materi 4.3: Mengelola Database & Retargeting Promosi (Soft-selling).**
+*   **KC (Knowledge Check)**:
+    *   [ ] "Lampirkan link grup/komunitas WhatsApp atau Telegram yang telah Anda buat."
+    *   [ ] "Screenshot 1 pesan promosi di dalam grup Anda."
+
 ---
 
 ## 📈 TARGET KOMITMEN (POST-INCOBATION)

@@ -62,6 +62,22 @@ Seorang peserta dinyatakan lulus dari pendampingan (Bulan 3) jika:
 
 ---
 
-**Last Updated**: 2026-03-30  
+**Last Updated**: 2026-03-31  
 **Disetujui Oleh**: sandikodev (Sandiko) & Wakhid Hamzah  
-**Kontak Teknis**: Fathan Mubina (CTO)  
+**Kontak Teknis**: Fathan Mubina (CTO)
+
+---
+
+## 📋 6. SLA & RUBRIK PENILAIAN TUGAS (KNOWLEDGE CHECK)
+Setiap peserta akan mengumpulkan tugas praktik (Knowledge Check) berupa link atau teks melalui platform `naikkelas.id`. Mentor wajib memvalidasi tugas tersebut dengan standar berikut:
+
+### SLA (Service Level Agreement) Pemeriksaan
+*   **Maksimal 2x24 Jam**: Mentor wajib memberikan status *Approved*, *Rejected*, atau *Needs Revision* selambat-lambatnya 48 jam sejak tugas di-*submit* oleh peserta.
+*   **Feedback Konstruktif**: Jika menolak (*Reject*), mentor wajib menyertakan alasan spesifik (misal: "Link yang dilampirkan rusak" atau "Audio video terlalu bising").
+
+### Contoh Rubrik Penilaian (Pilar Konten Kreator)
+Jika tugas meminta peserta mengunggah Video Pendek (Tiktok/Reels), ini adalah poin penilaian dasar yang dicari mentor:
+1.  **Hook (3 Detik Pertama)**: Apakah ada teks/kalimat pancingan yang membuat orang berhenti *scroll*?
+2.  **Audio & Visual**: Apakah suara terdengar jelas (tidak tertutup *backsound* musik)? Apakah pencahayaan memadai?
+3.  **Teks/Subtitle (Opsional tapi Disarankan)**: Apakah kreator menggunakan auto-captions untuk audiens yang menonton tanpa suara?
+4.  **Call to Action (CTA)**: Apakah di akhir video ada arahan jelas (misal: "Cek link di bio", "Komen di bawah")?

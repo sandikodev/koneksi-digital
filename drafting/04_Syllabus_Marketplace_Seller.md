@@ -32,6 +32,14 @@
     *   [ ] "Lampirkan screenshot rating/penilaian pembeli pertama (Jika ada)."
     *   [ ] "Tetapkan target stok produk atau komitmen upload produk baru (Mingguan/Bulanan)."
 
+### **Fase 4: Growth & Scaling (Ekspansi Bisnis)**
+*   **Materi 4.1: Manajemen Keuangan Bisnis (Memisahkan Uang Pribadi vs Usaha).**
+*   **Materi 4.2: Pendaftaran Legalitas (NIB - Nomor Induk Berusaha).**
+*   **Materi 4.3: Merekrut Admin Toko atau Customer Service.**
+*   **KC (Knowledge Check)**:
+    *   [ ] "Lampirkan screenshot/foto dokumen NIB yang sudah terbit dari OSS."
+    *   [ ] "Buat laporan laba rugi sederhana (1 minggu terakhir) di Google Spreadsheet dan lampirkan link-nya."
+
 ---
 
 ## 📈 KRITERIA KELULUSAN

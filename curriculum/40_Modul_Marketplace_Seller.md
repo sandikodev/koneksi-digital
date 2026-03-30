@@ -53,3 +53,27 @@ Jangan malu meniru! Gunakan Google Image atau foto kompetitor sebagai inspirasi 
 
 **Tugas Praktik (Knowledge Check)**:
 - [ ] Unggah 1 produk ke etalase toko Anda! Jangan lupa terapkan rumus penamaan tadi. Setelah selesai, lampirkan screenshot detail produk dan URL khusus produk tersebut di form ini.
+
+## 100_MODUL: Growth & Scaling (Ekspansi Bisnis)
+
+### 1. Manajemen Keuangan Bisnis (Pemisahan Uang)
+Kesalahan fatal seller adalah mencampur uang hasil penjualan dengan uang dapur. Ini menyebabkan "merasa untung padahal modal habis".
+Mulai bulan pertama:
+- Pisahkan rekening penerimaan hasil dari *Marketplace* dengan rekening pribadi.
+- Jangan gunakan saldo yang mengendap untuk keperluan pribadi sebelum modal (HPP - Harga Pokok Penjualan) diputar kembali untuk stok baru.
+
+### 2. Pendaftaran Legalitas (NIB & HKI)
+Bagi yang memiliki produk buatan sendiri (Produsens/UMKM), segera daftarkan Nomor Induk Berusaha (NIB) secara gratis di portal OSS. Kenapa penting?
+- Mencegah produk diblokir BPOM/Pemerintah.
+- Persyaratan utama jika nanti Anda ingin mengikuti program modal pemerintah / KUR (Kredit Usaha Rakyat).
+- Meningkatkan kredibilitas toko Anda di mata pembeli.
+
+### 3. Merekrut Admin Toko atau Customer Service
+Jika penjualan sudah mencapai 50 paket sehari, waktu Anda akan habis hanya untuk membalas komplain *"Kak kok paketku belum jalan?"*.
+Inilah saatnya mendelegasikan tugas:
+- Siapkan *Template* balasan standar.
+- Cari admin (bisa dikerjakan *remote* atau keluarga terdekat) yang memegang peran operasional agar Anda bisa fokus memikirkan strategi produk baru.
+
+**Tugas Praktik (Knowledge Check)**:
+- [ ] Lampirkan screenshot/foto dokumen NIB yang sudah terbit dari OSS (Atau draft pengajuan jika masih proses).
+- [ ] Buat laporan laba rugi sederhana (1 minggu terakhir) di Google Spreadsheet dan lampirkan link-nya!

@@ -48,3 +48,25 @@ Gunakan **Capcut** untuk mengedit:
 
 **Tugas Praktik (Knowledge Check)**:
 - [ ] Rekam 1 video pendek (15 - 30 detik) yang menceritakan tentang diri Anda atau produk Anda menggunakan formula *Hook*. Edit di Capcut tambahkan teks. Upload ke TikTok/IG dan lampirkan link-nya di sini!
+
+## 80_MODUL: Growth & Scaling (Kolaborasi & Ekspansi)
+
+### 1. Menyusun Portofolio & Rate Card Sederhana
+Saat audiens Anda mulai membesar, berbagai *Brand* (Merk) mungkin akan melirik Anda. Anda harus terlihat profesional.
+Jangan bingung saat ditanya, *"Berapa rate card Kakak untuk 1 video TikTok?"*
+
+Buatlah PDF 1 halaman berisi:
+- **Nama & Foto Profil Anda**
+- **Niche/Topik Utama Konten**
+- **Statistik Audiens** (Berapa *Followers*, Rata-rata *Views*)
+- **Harga (Rate)**: Misal, Rp 50.000 untuk 1 Video + Bebas Revisi 1x.
+
+### 2. Strategi Pitching ke Brand (Jemput Bola)
+Jangan hanya menunggu *Brand* datang. Jadilah proaktif!
+Cari akun Instagram UMKM, Makanan Lokal, atau Skincare Pemula, dan kirimkan DM atau Email.
+*Teknik: Berikan nilai tambah.*
+"Halo Min! Saya perhatikan produk kakak bagus banget. Kebetulan audiens saya suka produk serupa. Jika berkenan, bolehkah saya membuatkan 1 video *review* gratis? Jika performanya bagus, kita bisa obrolin kerjasama lebih lanjut."
+
+**Tugas Praktik (Knowledge Check)**:
+- [ ] Gunakan Canva (Template: Media Kit / Rate Card) untuk mendesain 1 halaman penawaran jasa Anda. Upload ke Google Drive dan lampirkan link-nya di sini!
+- [ ] Lampirkan screenshot DM negosiasi/pitching Anda kepada 1 UMKM/Brand lokal di Instagram!

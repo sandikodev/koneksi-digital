@@ -60,3 +60,22 @@ Gunakan alat multifungsi (Linktree, Milkshake, atau Beacons/Karyakarsa) untuk me
 
 **Tugas Praktik (Knowledge Check)**:
 - [ ] Buat akun "Link in Bio" (Contoh: Linktree), masukkan 3 link affiliate produk yang sudah Anda siapkan sebelumnya. Screenshot tampilan Linktree Anda dan lampirkan di sini!
+
+## 90_MODUL: Growth & Scaling (Ekspansi Kolam Audiens)
+
+### 1. Strategi Kolam Audiens (Tribe Building)
+Ketika ribuan orang mengeklik link Anda tapi belum tentu beli, Anda akan kehilangan mereka selamanya.
+Oleh karena itu, Anda perlu "menangkap" mereka ke dalam kolam milik Anda sendiri (Grup WhatsApp atau Telegram).
+
+**Cara Membangun Kolam:**
+Buat *Lead Magnet* (Daya Tarik). Contoh: "Ebook Gratis: 10 Resep Mpasi Bebas Alergi, join Grup WA untuk download." Di dalam grup itulah Anda nanti bisa membagikan link produk panci MPASI.
+
+### 2. Retargeting Promosi (Soft-selling)
+Mengirim link Shopee setiap jam di grup akan membuat audiens Anda keluar (Left Group). 
+Terapkan rasio 80/20.
+- **80% Edukasi/Interaksi**: Bagikan tips gratis, artikel menarik, atau adakan sesi tanya jawab bot/admin.
+- **20% Promosi Soft-selling**: "Oh ya Bun, buat bahan MPASI-nya kemarin aku pakai chopper mini ini, praktis banget. Cek ya -> [link]."
+
+**Tugas Praktik (Knowledge Check)**:
+- [ ] Lampirkan link grup/komunitas WhatsApp atau Telegram yang telah Anda buat khusus untuk calon pelanggan Anda!
+- [ ] Screenshot 1 pesan edukasi dan promosi (soft-selling) yang Anda kirimkan ke dalam grup tersebut!

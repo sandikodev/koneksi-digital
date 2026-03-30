@@ -32,6 +32,14 @@
     *   [ ] "Jumlah konten yang diupload minggu ini (Minimal 2)."
     *   [ ] "Bagikan link konten terbaik Anda minggu ini di forum."
 
+### **Fase 4: Growth & Scaling (Kolaborasi & Ekspansi)**
+*   **Materi 4.1: Menyusun Portofolio & Rate Card Sederhana.**
+*   **Materi 4.2: Strategi Pitching ke Brand (DM/Email).**
+*   **Materi 4.3: Kolaborasi Silang dengan Kreator Lain.**
+*   **KC (Knowledge Check)**:
+    *   [ ] "Buat draft PDF Rate Card atau Media Kit sederhana Anda (Gunakan template Canva)."
+    *   [ ] "Screenshot DM negosiasi/pitching Anda kepada 1 buah brand lokal/UMKM."
+
 ---
 
 ## 🌟 INDIKATOR KEBERHASILAN

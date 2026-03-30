@@ -32,6 +32,12 @@ Program ini membagi peserta ke dalam 3 jalur spesialisasi setelah melewati masa 
     *   Fokus: Pengelolaan toko digital dan rantai pasokan.
     *   Goal: Transaksi penjualan produk sendiri atau dropship.
 
+### Mekanisme Pemilihan Pilar (Titik Percabangan & Fleksibilitas)
+Untuk mengakomodasi tingkat pengalaman yang berbeda-beda, platform menggunakan pendekatan pemilihan spesialisasi yang fleksibel:
+*   **Masa Eksplorasi Terbuka (Preview)**: Setelah Modul Pondasi (Modul 10), materi awal dari setiap spesialisasi (Modul 20 untuk Kreator, 30 untuk Afiliator, 40 untuk Seller) disediakan secara terbuka. Peserta awam bisa mengeksplorasi atau mencicipinya sebelum mengambil keputusan.
+*   **Akses Pemilihan Langsung (Skip to Choose)**: Bagi peserta yang sudah mantap (contoh: sudah punya toko online sendiri), mereka **diizinkan untuk langsung memilih** spesialisasi *(skip preview)* sejak awal.
+*   **Penguncian Peminatan (Lock-in)**: Penguncian jalur (*learning path*) dilakukan saat peserta secara sadar mengisi konfirmasi komitmen (via klik tombol "Pilih Spesialisasi" atau *Assessment Minat* tambahan). Setelah dikunci, sistem `naikkelas.id` akan hanya menampilkan materi tingkat lanjut (Eksekusi & Scaling) yang relevan dengan pilar pilihannya.
+
 ---
 
 ## 3. 🗓️ ROADMAP INKUBASI (3 BULAN)
@@ -73,6 +79,12 @@ Peserta dinyatakan lulus jika memenuhi kriteria:
 2.  **Konsistensi**: Melakukan aksi (upload/update) tanpa absen selama 14 hari terakhir.
 3.  **Output Nyata**: Memiliki link konten/toko yang valid dan aktif.
 4.  **Community Support**: Turut serta memberikan dukungan (Like/Comment/Share) kepada rekan sejawat dalam ekosistem.
+
+### Indikator Kelulusan Spesifik Berdasarkan Pilar (Action-Based Milestones)
+Selain KPI umum di atas, setiap pilar memiliki syarat kelulusan/Naik Kelas (*) milestone *fisik* yang akan divalidasi oleh sistem:
+*   **Kreator**: Mencapai batas minimal audiens tertentu (misal: 1000 Followers/Subscribers) agar siap mengikuti program monetisasi bawaan platform (Creator Fund/Adsense).
+*   **Afiliator**: Membuktikan pecah telur komisi pertama (*First Blood Commission*) yang terlacak pada dashboard *Affiliate Center* (Shopee/TikTok).
+*   **Marketplace Seller**: Berhasil melayani minimal 1-3 pesanan pertama secara mandiri hingga selesai, dengan persentase *Zero Cancellation Rate* pada orderan awal.
 
 ---
 

@@ -10,7 +10,7 @@
 ## 1. 🎯 VISI & STRATEGI UTAMA
 
 ### Visi Program
-Membangun kemandirian ekonomi "Sedulur ASIB" melalui penguasaan keterampilan digital praktis yang berbasis aksi nyata (Action-Based Learning), bukan sekadar teori.
+Membangun kemandirian ekonomi Peserta Program melalui penguasaan keterampilan digital praktis yang berbasis aksi nyata (Action-Based Learning), bukan sekadar teori.
 
 ### Strategi "20/80"
 *   **20% Mindset (Why)**: Membangun pondasi mental dan alasan kuat (*Strong Why*) agar peserta memiliki daya tahan selama masa inkubasi.
@@ -78,7 +78,7 @@ Peserta dinyatakan lulus jika memenuhi kriteria:
 
 ## 6. 🤝 MODEL PENDAMPINGAN (HYBRID)
 
-Mengingat kedekatan personal (Sedulur ASIB), model pendampingan dilakukan secara:
+Mengingat pentingnya pendampingan personal bagi peserta, model pendampingan dilakukan secara:
 *   **Daring (Digital)**: Materi, tugas, dan Knowledge Checking (KC) melalui website naikkelas.id.
 *   **Luring (Offline)**: Pertemuan mingguan (60-90 menit) atau kunjungan rumah (*Visiting*) untuk memantau kendala teknis dan menjaga motivasi.
 

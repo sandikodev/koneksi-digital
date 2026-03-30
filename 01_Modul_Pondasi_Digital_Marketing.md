@@ -20,7 +20,7 @@
 
 *   **Pelajaran 2.1**: Berkenalan dengan **ChatGPT & Gemini** (Pembuatan akun & Prompt dasar).
 *   **Pelajaran 2.2**: Brainstorming Ide Konten & Judul Menarik dengan AI.
-*   **Pelajaran 2.3**: Membuat Script Video & Caption dengan Gaya Bahasa "Sedulur".
+*   **Pelajaran 2.3**: Membuat Script Video & Caption dengan Gaya Bahasa yang Akrab & Komunitatif.
 *   **Tugas (KC)**: "Salin dan lampirkan link percakapan ChatGPT/Gemini saat Anda mencari 5 ide konten."
 
 ---

@@ -1,7 +1,7 @@
 # Panduan Operasional: Tim Pendamping & Mentor Lapangan
 
 **Program**: Inkubasi "Naik Kelas" by Koneksi Digital (Versi Yayasan ASIB)  
-**Tujuan**: Memberikan panduan praktis (SOP) bagi tim pendamping untuk mengawal progres "Sedulur ASIB" hingga menghasilkan output nyata.
+**Tujuan**: Memberikan panduan praktis (SOP) bagi tim pendamping untuk mengawal progres Peserta Program hingga menghasilkan output nyata.
 
 ---
 
